@@ -1,0 +1,44 @@
+@media screen and
+(min-width: 200px) and
+(max-width: 700px){
+  
+
+  h2 {
+    font-size: 38px;
+
+  }
+
+  .wrapped {
+    padding-bottom: 0px;
+    height: 190px;
+  }
+
+  .buttons {
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+  }
+
+  body{
+    min-height: 0hv;
+    display: flexbox;
+    align-items:center;
+    justify-content: center;
+    padding-right: 10px;
+    width: 100%px;
+      display: flex;
+      flex-direction: column;
+      margin: 6px;
+  }
+
+  input{
+    width: 100%;
+    margin-right: 20px;
+  }
+
+  textarea{
+    width: 100%;
+  }
+}
+
